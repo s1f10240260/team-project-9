@@ -5,3 +5,7 @@
     width: 30%;
     margin: 10px 0 10px 0;
 }
+
+body{
+    background: linear-gradient(90deg,rgb(144, 190, 230),rgb(60, 151, 243));
+}
