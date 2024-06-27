@@ -1,9 +1,10 @@
 .red{
     color:red;
 }
-.sidebar{
+.side{
     width: 30%;
     margin: 10px 0 10px 0;
+    background-color: rgb(236, 176, 123);
 }
 
 body{
