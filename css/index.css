@@ -7,9 +7,9 @@ h1.a{font-size: 20px;
 .side{
     width: 30%;
     margin: 10px 0 10px 0;
-    background-color: rgb(236, 176, 123);
+    background-color: rgba(234, 241, 5, 0.224);
 }
 
 body{
-    background: linear-gradient(90deg,white,gray);
+    background: linear-gradient(90deg,rgba(206, 197, 74, 0.126),rgba(113, 53, 43, 0.4));
 }
