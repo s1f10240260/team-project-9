@@ -2,9 +2,13 @@
     color:red;
 }
 
-h1.a{font-size: 20px;
+h1.a{font-size: 40px;
 
 }
+h1.b{font-size: 20px;
+
+}
+
 .side{
     width: 30%;
     margin: 10px 0 10px 0;
@@ -13,4 +17,12 @@ h1.a{font-size: 20px;
 
 body{
     background: linear-gradient(90deg,rgba(206, 197, 74, 0.126),rgba(113, 53, 43, 0.4));
+}
+
+.content {
+    text-align:center;
+    margin-left:10px;/*サイドバーとメインコンテンツの間に隙間                    をあけた*/
+}
+article {
+        display:flex;/*サイドバーとメインコンテンツを横並びにする                指定をした*/
 }
